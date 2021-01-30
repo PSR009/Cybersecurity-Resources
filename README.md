@@ -1,3 +1,3 @@
 # Cybersecurity-Resources
 
-- [Tools](/Cybersecurity-Resources/Tools.md)
+- [Tools](/Tools.md)
